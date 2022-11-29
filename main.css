@@ -1,3 +1,8 @@
 body {
 	background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAASCAYAAABmQp92AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAB7SURBVChTlZCBDYAgDARrJ2AERnFz3URGcAP8StEWMMELpMn/p9AuWz4yCekkwqGAW2sMxCjehPiEoHNnCibEnVnRUHmisidfgQ8M8IE1+gp+dhjAdmaHjs/tYm7MbsoTbUhN0d8/2JCaQgmYxTigT45pFuOAPtnhE6ILDDYsMBcEVJwAAAAASUVORK5CYII=');
 }
+header, main {
+	width: min(800px, 100%);
+	margin: 0 auto;
+	background: #fff8
+}
